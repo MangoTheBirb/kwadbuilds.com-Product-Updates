@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "kwadbuilds-connected-database",
-  "private_key_id": "ec036f53c244734b61a23f738251fac3d95ef29a",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/IFsOOCZ0ptXO\nTrUr8+j7EIoXc8CFuIGW8amCLaQzX3ZasCPEmnMDCaWHi2zV7DzVlgqpYeXeYYpb\nLlcEdh6l22uJ39FJWIn+1JTlwzYFyPgXz8WqsfFfePDgDbKWv/Dx+Es26thczdIq\ndGG/VyOg+ZqeXpR0FvKb5TjEVO/SuK+72xvIXwm4Qo4wS1LiIfLC6efoXJJazDIT\n7UPQlOUmOXq1klucy354arJ/Hs/xgdFe4kImNMdymcSi4URfDjnYxQuIsV81lsyZ\neIqmI5ILamSnuzY12M6bHJ6DJaB9PA8RABZftNUrr22FSnJJH6IRjzQ6LgwPmDTO\nsSXG9WYxAgMBAAECggEAT9q+8KP5PUfvkPFFtQWF1FBGwiG00KoUSvLRdfiH4IcE\nNkPdzekSILTJGmbgpEi96id0cOzcVBvA6PPlm5GWoIma1tJS6Sg7D+PWCmGTkrsz\nHQ/McNNEHDW1voc6lM3BZ/frxRg+Khg8tUxHAuDvm/Rt67lsoUxtNUGChFVQlmOm\nE/Fb/Fx3eTnO+YpPP3+Z+R1Cy11Wh60vs4+J8QQ5h+SkS2Ivw8u11Gi1YdgdjJ3d\nP0rpSTCqjEOzB45lkBKogIXftwKGOSuegNdaICk+v7UY3qaz9ltGVlQFLgFsuZ9g\nHdBnqXECUyVvHcNMXmM/4HLJf2XjrN823Al6uW92eQKBgQD0httTdDGk0MFKo9Gv\nF3yadHD6/Go48xzfarK21R0LktEalstb1H6hmwr3AwP7z6ub6GguVerSsfh35uGr\nMTn9tk6ANewGaEREaNpnxo9FR+PK4ZSL2gKKCZKI4rJjz0v33ozaVh3orN1LP5jo\nSq/XPqYHpBhGdIvg+0fhq4UgUwKBgQDIGBP1c2F4hZaKcMVS2RK3h+cA/3dyDwnP\ncoFsH73VPJbgbbLoBFO6g79W3QrFukDFupzGuBf1fd/aQD0uM3SH8hY1MK5y0Hvg\nkrE34FB9q3/wS0AW7jcegJObSGTGvR66FieRIqhotR+Pwku+Xv+2JXB+vtDgfKLe\n8vPG200e6wKBgAe3Sax0eiyNOcw1JySzRQdKrVX+KQvq//o8z67dQrFezKJeJ8Sa\nC/Tlg48P1UxY3T1qM/9iTqqfWwvNiUlxoDbVTdzV1sDNAXp3JI0pwtOY1SNNwvY2\nxuW8L5eKL77eh7MmnqM1HHR/H+yD8TtDQBE2tN6A2xM+EjvjMf15ABZpAoGAcY14\nhircfdESBa7JzKJ0BMOTTPWti4UNRDTvTbUVvhWMagDXLuSFv6tUwq7elieE6rFk\nl0GSFzc/+lPKZJW+5Ad2oujllzLJmkClYdhi1W6mRG/wBxNZJG5DVjRXPJHHBkPc\nYHkSqZlgN+1Dnt26sFu+467WSw9wPqYRwiBiO9ECgYEAhJgB7NmBHBAYh68UrN/q\nWjVg+7uVxvHxCJT4/DRDjTAFFJqFKlvLGHhImfLmEDaJv0j/YqlPJjI6o4Yz42hS\n6s3nzGK3eZwQYlrrrkBxTT9QMMz4gXGEIaT7XruieMP2dAOfTfQMgZuJwt/yfswG\nuWTTwWBufxjE7s9QE+2MREU=\n-----END PRIVATE KEY-----\n",
-  "client_email": "kcd-google-drive-api@kwadbuilds-connected-database.iam.gserviceaccount.com",
-  "client_id": "104081356069339353769",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kcd-google-drive-api%40kwadbuilds-connected-database.iam.gserviceaccount.com"
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
+  "auth_uri": "",
+  "token_uri": "",
+  "auth_provider_x509_cert_url": "",
+  "client_x509_cert_url": ""
 }
